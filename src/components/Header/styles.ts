@@ -14,6 +14,7 @@ export const HeaderStyles = styled.header`
     color: ${cores.branca};
     text-decoration: none;
     font-weight: bold;
+    font-weight: bold;
   }
 
   div {
